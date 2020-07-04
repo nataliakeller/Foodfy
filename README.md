@@ -18,8 +18,8 @@ LaunchBase Bootcamp is an online Bootcamp with an 8 weeks duration. The Bootcamp
 ## :trophy: About the Challenge
 
 In this challenge, I built a recipe website for a (fictitious) company called Foodfy.
-##
 
+------------
 <img src="./img/example_01.jpg" alt="Foodfy Screenshot">
 <img src="./img/example_03.jpg" alt="Foodfy Screenshot">
 <img src="./img/example_04.jpg" alt="Foodfy Screenshot">
