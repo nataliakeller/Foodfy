@@ -1,5 +1,14 @@
 # Foodfy
-<img src="./img/example_01.jpg" width="100%">
-<img src="./img/example_03.jpg" width="100%">
-<img src="./img/example_04.jpg" width="100%">
-<img src="./img/example_02.jpg" width="100%">
+
+<h1 align="center">
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
+</h1>
+<p align="center">
+  <a href="#rocket-about-the-launchbase-bootcamp">About the LaunchBase Bootcamp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## :rocket: About the LaunchBase Bootcamp
+
+
