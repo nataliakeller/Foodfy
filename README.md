@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#rocket-about-the-launchbase-bootcamp">About the LaunchBase Bootcamp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#trophy-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-foodfy.md" target="_blank">Challenge</a>
+  <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-03/blob/master/desafios/03-refatorando-foodfy.md" target="_blank">Challenge</a>
 </p>
 
 <img src="./public/img/ex1.jpg" alt="Foodfy Screenshot">
