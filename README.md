@@ -8,7 +8,7 @@
   <a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-foodfy.md" target="_blank">Challenge</a>
 </p>
 
-<img src="./img/example_01.jpg" alt="Foodfy Screenshot">
+<img src="./public/img/ex1.jpg" alt="Foodfy Screenshot">
 
 ## :rocket: About the LaunchBase Bootcamp
 
@@ -20,8 +20,8 @@ LaunchBase Bootcamp is an online Bootcamp with an 8 weeks duration. The Bootcamp
 In this challenge, I built a recipe website for a (fictitious) company called Foodfy.
 
 ------------
-<img src="./img/example_01.jpg" alt="Foodfy Screenshot">
-<img src="./img/example_03.jpg" alt="Foodfy Screenshot">
-<img src="./img/example_04.jpg" alt="Foodfy Screenshot">
-<img src="./img/example_02.jpg" alt="Foodfy Screenshot">
+<img src="./public/img/ex2.jpg" alt="Foodfy Screenshot">
+<img src="./public/img/ex3.jpg" alt="Foodfy Screenshot">
+<img src="./public/img/ex4.jpg" alt="Foodfy Screenshot">
+<img src="./public/img/ex1.jpg" alt="Foodfy Screenshot">
 
